@@ -11,20 +11,23 @@ You will have 7 days to complete the assignment. Once you have completed your so
 * Demonstrate knowledge of component modularization
 * Utilize CSS to create the layout of the page. Add hover styles to the items the user is interacting with.
 * Create components as you feel is best suited for your solution
+* write a proper README file documenting instruction to execute your solution.
  
 ## Requirements:
 ### Floating card
-* Use https://catfact.ninja/fact API and fetch catfat in a floating card which will be visible on the down-right corner of every page.
+* Use https://catfact.ninja/fact API and fetch catfact in a floating card which will be visible on the down-right corner of every page.
 * Facts should only change every 1 min. Not with page navigation.
 * If a user spends less than 1 min on a page and moves to another page, even then catfact should change after 1 min.
 
 ![Floating Card](https://github.com/nazmul-mulytic/frontend-engineer-test/blob/main/wireframe/floating-card.png)
 
 ### Home Page
-* Use Reddit API and show the latest posts from the shown Subreddits
+* Use Reddit API and show the latest posts from sub-reddits shown in below wireframe
 * Each post should have its own details page.
 
 ![Reddit Page](https://github.com/nazmul-mulytic/frontend-engineer-test/blob/main/wireframe/reddit-page.png)
+
+![Reddit page Giphy](https://media.giphy.com/media/4NtPrzG6Wc45V2m2oA/giphy.gif)
 
 ### Awards Page
 * Use https://www.omdbapi.com to search for movies.
@@ -40,5 +43,5 @@ You will have 7 days to complete the assignment. Once you have completed your so
 
 ## Submission Rules
 Send your public repo link to **nazmul.islam@mulytic.io** and CC **ahmad.sajid@mulytic.io** with a subject of "Yourname - Frontend engineer test"
- 
+
  
